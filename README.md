@@ -20,6 +20,5 @@ python manage.py runserver
 ```
 
 <h1>Структура проекта</h1>
-backend/ - директория Django-проекта
 
 frontend/ - директория React-приложения
